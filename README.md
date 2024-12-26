@@ -1,6 +1,5 @@
 # Implementing-Auto-scaling-with-AWS-Metrics
 
-# Kubernetes Deployment with Horizontal Pod Autoscaling on EKS  
 
 ## Objective  
 Understand the dynamics of scaling applications in Kubernetes on AWS.  
